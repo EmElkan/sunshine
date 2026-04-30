@@ -1,6 +1,6 @@
 # Sunshine
 
-A terminal sundial that displays random sundial mottoes paired with themed ASCII art.
+A TUI that displays sundial mottoes paired with themed ASCII art.
 
 Built with [Ratatui](https://ratatui.rs) and [Crossterm](https://github.com/crossterm-rs/crossterm).
 
