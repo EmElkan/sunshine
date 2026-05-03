@@ -4,6 +4,10 @@ A TUI that displays sundial mottoes paired with themed ASCII art.
 
 Built with [Ratatui](https://ratatui.rs) and [Crossterm](https://github.com/crossterm-rs/crossterm).
 
+
+https://github.com/user-attachments/assets/18399dce-c21d-44c2-9336-50cddb4fa903
+
+
 ## Usage
 
 ```
